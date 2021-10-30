@@ -1,0 +1,12 @@
+/* Setting HeaderNavBar Logo */
+/* #app  .navbar>.home-link::before {
+    display: inline-block;
+    content: "";
+    width: 2rem;
+    height: 2rem;
+    background-image: url('../images/logo.png') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+    padding: 10px 10px;
+} */
